@@ -1,0 +1,21 @@
+#navigation {
+    display: flex;
+    justify-content: space-between;
+    padding: 3vh 7vw 3vh 5vw;
+}
+
+#navigation a {
+    padding-left: 3vw;
+    text-decoration: none;
+    color: #333333;
+    font-size: 1.1rem;
+}
+
+#navigation #logo {
+    padding: 0;
+}
+
+#navigation img {
+    width: 15vw;
+    object-fit: contain;
+}

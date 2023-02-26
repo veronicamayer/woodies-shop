@@ -1,0 +1,13 @@
+#about article {
+    display: flex;
+    justify-content: space-between;
+    padding: 3vh 10vw 0 10vw;
+}
+
+#about div {
+    padding-left: 10vw;
+}
+
+#about p {
+    font-size: 1.5rem;
+}

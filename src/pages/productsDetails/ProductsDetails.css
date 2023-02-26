@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Lato;
+    src: url(../../fonts/Lato-Regular.ttf);
+}
+
+#productDetails article {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20vw;
+}
+
+#productDetails p {
+    margin: 0 5vw;
+    font-weight: bold;
+    font-family: Lato;
+    font-size: 1.3rem;
+    line-height: 2rem;
+}

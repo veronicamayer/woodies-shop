@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Lato;
+    src: url(../../fonts/Lato-Regular.ttf);
+}
+
+#imgTags {
+    position: relative;
+}
+
+#imgTags p {
+    position: absolute;
+    top: 0;
+    left: 10%;
+    font-family: Lato;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+#imgTags #links {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    text-decoration: none;
+    color: white;
+    background-color: #daa521;
+    padding: 15px 30px;
+    font-size: 0.8rem;
+    border-radius: 5px;
+}
+
